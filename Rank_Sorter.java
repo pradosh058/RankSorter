@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Pqobject {
+public class Ranksorter {
     static class Student implements Comparable<Student> {
         String name;
         int rank;
