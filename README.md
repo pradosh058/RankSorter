@@ -23,4 +23,4 @@ Contributing
 
 License
 
-   RankSorter is licensed under the MIT License.
+    RankSorter is licensed under the MIT License.
